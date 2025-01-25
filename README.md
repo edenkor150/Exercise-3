@@ -27,6 +27,7 @@ Additional Information
 - The mean squared error (MSE) is used as the loss function.
 - Stochastic Gradient Descent (SGD) with mini-batches is used for optimization.
 - The code includes helper functions for data loading and evaluation (e.g., minibatch_generator, mse_loss, accuracy).
+
 You can find additional resources for neural networks and backpropagation at.
 References
 - Raschka, S., Liu, Y., & Mirjalili, V. (2022). Machine Learning with PyTorch and Scikit-Learn. Packt Publishing.
